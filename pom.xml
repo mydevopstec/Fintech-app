@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.86.113.205:8888/repository/paypal-releases/</url>
+	      <url>http://3.87.67.165:8088/repository/paypal-fintech-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.86.113.205:8888/repository/paypal-snapshots/</url>
+	      <url>http://3.87.67.165:8088/repository/paypal-fintech-app-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
